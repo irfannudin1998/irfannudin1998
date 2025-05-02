@@ -1,5 +1,5 @@
-# 💫 About Me:
-##Hello Coders!! I'm Irfannudin
+
+## Hello Coders!! I'm Irfannudin
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=irfannudin1998&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=irfannudin1998&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
